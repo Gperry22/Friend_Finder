@@ -1,10 +1,10 @@
 module.exports = [{
     name: "Donald",
-    photo: "http://www.networkfp.com/man-1-2/",   
+    photo: "http://www.networkfp.com/wp-content/uploads/2016/08/man-1-2.jpg",   
     answers: ["1", "1", "1", "1", "1", "1", "1", "1", "1", "1"]
 },
 {
     name: "Marie",
-    photo: "https://www.google.com/search?q=people+images&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwic_afZt9bZAhUsmuAKHcyPCCkQ7AkITg&biw=1680&bih=862#imgdii=fCr7dESQVV-XkM:&imgrc=Suc_4Ub69ArG9M:",
+    photo: "http://www.networkfp.com/wp-content/uploads/2016/08/man-1-2.jpg",
     answers: ["2", "2", "2", "2", "2", "2", "2", "2", "2", "2"]
 }]
